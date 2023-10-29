@@ -19,7 +19,7 @@ export class AppController {
 
       },
       params: {
-        'apiKey':'C04dqFeWz9FFM5fKB3ijzmCRl4Yk2C3d'
+        'apiKey':'*********************'
       }
     })
     .toPromise(); 
